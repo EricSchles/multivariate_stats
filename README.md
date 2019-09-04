@@ -48,4 +48,4 @@ References:
 * https://www.dummies.com/programming/big-data/data-science/python-for-data-science-developing-a-multivariate-approach-to-find-outliers/
 * https://en.wikipedia.org/wiki/Multivariate_analysis
 * https://en.wikipedia.org/wiki/Multivariate_statistics
-
+* https://www.amazon.com/Methods-Multivariate-Analysis-Alvin-Rencher/dp/0470178965?ref_=fsclp_pl_dp_2
